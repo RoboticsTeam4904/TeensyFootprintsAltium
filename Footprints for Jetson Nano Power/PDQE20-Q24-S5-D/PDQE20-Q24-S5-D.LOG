@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : PDQE20-Q24-S5-D.LibPkg
+
+Section : C:\Users\Etaash\Downloads\PDQE20-Q24-S5-D (2)\PDQE20-Q24-S5-D.lia
+    Section : PCB Library - PDQE20-Q24-S5-D.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PDQE20-Q24-S5-D On Line 137
+            Warning - 1 : Skipping Token attachedSymbol On Line 225
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PDQE20-Q24-S5-D.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 126
+        EndSection
+
+        Section : Generating SCH Library - PDQE20-Q24-S5-D.SchLib
+        EndSection
+    EndSection
+EndSection

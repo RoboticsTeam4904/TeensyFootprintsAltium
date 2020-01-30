@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\..\Etaash\Documents\AltiumLL\JCM3012S05.PcbLib
+DocumentPath=282856-2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
+DocumentUniqueId=WCBUBESM
 
 [Document2]
-DocumentPath=..\..\..\..\..\..\Etaash\Documents\AltiumLL\JCM3012S05.SchLib
+DocumentPath=282856-2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NGLTGAHM
+DocumentUniqueId=VLVEZRKG
+
+[GeneratedDocument1]
+DocumentPath=282856-2.LOG
+DItemRevisionGUID=
 
 [OutputGroup1]
 Name=Netlist Outputs

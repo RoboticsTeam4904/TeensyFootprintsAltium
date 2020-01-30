@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 282836-4.LibPkg
+
+Section : C:\Users\Etaash\Downloads\282836-4\282836-4.lia
+    Section : PCB Library - 282836-4.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 282836-4 On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 205
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 282836-4.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - 282836-4.SchLib
+        EndSection
+    EndSection
+EndSection
